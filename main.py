@@ -104,4 +104,3 @@ if n4 % 3 == 0:
     result = result + n4
 print(result)
 
-print('Hello, world!')
